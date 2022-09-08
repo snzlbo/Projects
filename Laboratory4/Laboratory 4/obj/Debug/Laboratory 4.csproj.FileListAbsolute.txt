@@ -1,0 +1,21 @@
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory 4\Laboratory 4\bin\Debug\Laboratory 4.exe.config
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory 4\Laboratory 4\bin\Debug\Laboratory 4.exe
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory 4\Laboratory 4\bin\Debug\Laboratory 4.pdb
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory 4\Laboratory 4\obj\Debug\Laboratory 4.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory 4\Laboratory 4\obj\Debug\Laboratory_4.Notepad.resources
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory 4\Laboratory 4\obj\Debug\Laboratory_4.Properties.Resources.resources
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory 4\Laboratory 4\obj\Debug\Laboratory 4.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory 4\Laboratory 4\obj\Debug\Laboratory 4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory 4\Laboratory 4\obj\Debug\Laboratory 4.exe
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory 4\Laboratory 4\obj\Debug\Laboratory 4.pdb
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory4\Laboratory 4\bin\Debug\Laboratory 4.exe.config
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory4\Laboratory 4\bin\Debug\Laboratory 4.exe
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory4\Laboratory 4\bin\Debug\Laboratory 4.pdb
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory4\Laboratory 4\obj\Debug\Laboratory 4.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory4\Laboratory 4\obj\Debug\Laboratory_4.Notepad.resources
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory4\Laboratory 4\obj\Debug\Laboratory_4.Properties.Resources.resources
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory4\Laboratory 4\obj\Debug\Laboratory 4.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory4\Laboratory 4\obj\Debug\Laboratory 4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory4\Laboratory 4\obj\Debug\Laboratory 4.exe
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory4\Laboratory 4\obj\Debug\Laboratory 4.pdb
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory4\Laboratory 4\obj\Debug\Laboratory_4.ConfirmForm.resources

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory5\Laboratory5\bin\Debug\Laboratory5.exe.config
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory5\Laboratory5\bin\Debug\Laboratory5.exe
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory5\Laboratory5\bin\Debug\Laboratory5.pdb
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory5\Laboratory5\obj\Debug\Laboratory5.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory5\Laboratory5\obj\Debug\Laboratory5.Form1.resources
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory5\Laboratory5\obj\Debug\Laboratory5.Properties.Resources.resources
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory5\Laboratory5\obj\Debug\Laboratory5.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory5\Laboratory5\obj\Debug\Laboratory5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory5\Laboratory5\obj\Debug\Laboratory5.exe
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory5\Laboratory5\obj\Debug\Laboratory5.pdb

@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/3rd grade/SPRING/Windows Programming/Laboratory2/Laboratory2/obj/Debug/net5.0/Laboratory2.csprojAssemblyReference.cache
+/Users/macbookpro/Desktop/3rd grade/SPRING/Windows Programming/Laboratory2/Laboratory2/obj/Debug/net5.0/Laboratory2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/3rd grade/SPRING/Windows Programming/Laboratory2/Laboratory2/obj/Debug/net5.0/Laboratory2.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/3rd grade/SPRING/Windows Programming/Laboratory2/Laboratory2/obj/Debug/net5.0/Laboratory2.AssemblyInfo.cs
+/Users/macbookpro/Desktop/3rd grade/SPRING/Windows Programming/Laboratory2/Laboratory2/obj/Debug/net5.0/Laboratory2.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/3rd grade/SPRING/Windows Programming/Laboratory2/Laboratory2/bin/Debug/net5.0/Laboratory2.deps.json
+/Users/macbookpro/Desktop/3rd grade/SPRING/Windows Programming/Laboratory2/Laboratory2/bin/Debug/net5.0/Laboratory2.runtimeconfig.json
+/Users/macbookpro/Desktop/3rd grade/SPRING/Windows Programming/Laboratory2/Laboratory2/bin/Debug/net5.0/Laboratory2.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/3rd grade/SPRING/Windows Programming/Laboratory2/Laboratory2/bin/Debug/net5.0/Laboratory2.dll
+/Users/macbookpro/Desktop/3rd grade/SPRING/Windows Programming/Laboratory2/Laboratory2/bin/Debug/net5.0/ref/Laboratory2.dll
+/Users/macbookpro/Desktop/3rd grade/SPRING/Windows Programming/Laboratory2/Laboratory2/bin/Debug/net5.0/Laboratory2.pdb
+/Users/macbookpro/Desktop/3rd grade/SPRING/Windows Programming/Laboratory2/Laboratory2/obj/Debug/net5.0/Laboratory2.dll
+/Users/macbookpro/Desktop/3rd grade/SPRING/Windows Programming/Laboratory2/Laboratory2/obj/Debug/net5.0/ref/Laboratory2.dll
+/Users/macbookpro/Desktop/3rd grade/SPRING/Windows Programming/Laboratory2/Laboratory2/obj/Debug/net5.0/Laboratory2.pdb
+/Users/macbookpro/Desktop/3rd grade/SPRING/Windows Programming/Laboratory2/Laboratory2/obj/Debug/net5.0/Laboratory2.genruntimeconfig.cache

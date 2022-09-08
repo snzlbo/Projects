@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory3\Laboratory3\bin\Debug\Laboratory3.exe.config
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory3\Laboratory3\bin\Debug\Laboratory3.exe
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory3\Laboratory3\bin\Debug\Laboratory3.pdb
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory3\Laboratory3\obj\Debug\Laboratory3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form1.resources
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Properties.Resources.resources
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory3\Laboratory3\obj\Debug\Laboratory3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory3\Laboratory3\obj\Debug\Laboratory3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory3\Laboratory3\obj\Debug\Laboratory3.exe
+C:\Users\User\Desktop\Sainaa\Windows Programming\Laboratory3\Laboratory3\obj\Debug\Laboratory3.pdb
